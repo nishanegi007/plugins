@@ -1,0 +1,99 @@
+2019-07-30T11:50:11+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:13+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:14+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:17+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:21+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:25+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:25+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:25+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+
+2019-07-30T11:50:33+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:170
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 170
+

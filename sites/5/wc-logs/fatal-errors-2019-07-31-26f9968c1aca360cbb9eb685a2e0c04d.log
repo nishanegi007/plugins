@@ -1,0 +1,140 @@
+2019-07-31T04:50:14+00:00 CRITICAL Uncaught Error: Call to a member function is_main_query() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:169
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->me_search_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\vc_elements\gusta_section.php(48): gusta in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 169
+
+2019-07-31T04:50:14+00:00 CRITICAL Uncaught Error: Call to a member function is_main_query() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:169
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->me_search_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\vc_elements\gusta_section.php(48): gusta in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 169
+
+2019-07-31T04:50:16+00:00 CRITICAL Uncaught Error: Call to a member function is_main_query() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:169
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->me_search_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\vc_elements\gusta_section.php(48): gusta in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 169
+
+2019-07-31T04:50:46+00:00 CRITICAL Uncaught Error: Call to a member function is_main_query() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:169
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->me_search_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\vc_elements\gusta_section.php(48): gusta in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 169
+
+2019-07-31T04:51:11+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->me_search_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\vc_elements\gusta_section.php(48): gusta_get_secti in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T04:51:12+00:00 CRITICAL Uncaught Error: Call to a member function set() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->me_search_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\vc_elements\gusta_section_toggle.php(49): gusta_ge in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T05:59:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Listing::np_replace_empty_search(), 1 passed in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(288): Listing->np_replace_empty_search(Array)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(251): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3152): apply_filters_ref_array('the_posts', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\v in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T05:59:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Listing::np_replace_empty_search(), 1 passed in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(288): Listing->np_replace_empty_search(Array)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(251): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3152): apply_filters_ref_array('the_posts', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\v in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T05:59:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Listing::np_replace_empty_search(), 1 passed in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(288): Listing->np_replace_empty_search(Array)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(251): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3152): apply_filters_ref_array('the_posts', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\v in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T05:59:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Listing::np_replace_empty_search(), 1 passed in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(288): Listing->np_replace_empty_search(Array)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(251): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3152): apply_filters_ref_array('the_posts', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\v in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T05:59:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Listing::np_replace_empty_search(), 1 passed in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:171
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(288): Listing->np_replace_empty_search(Array)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(251): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3152): apply_filters_ref_array('the_posts', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3513): WP_Query->query(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\includes\sections.php(138): WP_Query->__construct(Array)
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\smart-sections\v in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 171
+
+2019-07-31T06:58:21+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\buzznerdtrucks\wp-includes\wp-db.php on line 1972
+
+2019-07-31T09:29:37+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:202
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp.php(622): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp.php(739): WP->query_posts()
+#8 C:\xampp\htdocs\buzznerdtrucks\wp-includes\fun in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 202
+
+2019-07-31T11:08:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Query::set(), 1 passed in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 289 and exactly 2 expected in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php:1723
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php(289): WP_Query->set(Array)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query in C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php on line 1723
+

@@ -1,0 +1,2 @@
+2019-08-08T08:47:47+00:00 CRITICAL Out of memory (allocated 117440512) (tried to allocate 28672 bytes) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\regenerate-thumbnails\includes\class-regeneratethumbnails-regenerator.php on line 151
+

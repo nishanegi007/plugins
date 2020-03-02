@@ -1,0 +1,2 @@
+2019-08-06T06:06:02+00:00 CRITICAL Out of memory (allocated 98566144) (tried to allocate 65536 bytes) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\gravityforms\includes\addon\class-gf-feed-addon.php on line 1248
+

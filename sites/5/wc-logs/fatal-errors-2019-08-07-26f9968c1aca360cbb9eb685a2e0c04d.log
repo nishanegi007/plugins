@@ -1,0 +1,27 @@
+2019-08-07T05:53:32+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php:219
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\framework.php(3471): ReduxFramework_location->render()
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1651): ReduxFramework->_field_input(Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1609): do_settings_fields('listing_wp10_se...', 'listing_wp10_se...')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\core\panel.php(328): do_settings_sections('listing_wp10_se...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\templates\panel\content.tpl.php(70): reduxCorePanel->output_section(10)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\core\panel. in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php on line 219
+
+2019-08-07T05:54:07+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php:219
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\framework.php(3471): ReduxFramework_location->render()
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1651): ReduxFramework->_field_input(Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1609): do_settings_fields('listing_wp10_se...', 'listing_wp10_se...')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\core\panel.php(328): do_settings_sections('listing_wp10_se...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\templates\panel\content.tpl.php(70): reduxCorePanel->output_section(10)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\core\panel. in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php on line 219
+
+2019-08-07T10:00:06+00:00 CRITICAL Uncaught Error: Call to a member function get_single_listing_category() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php:448
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php(333): ReduxFramework_location->generateSalespersonRoundrobinHtml('Fargo', Array, 'New')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\framework.php(3471): ReduxFramework_location->render()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1651): ReduxFramework->_field_input(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1609): do_settings_fields('listing_wp10_se...', 'listing_wp10_se...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\core\panel.php(328): do_settings_sections('listing_wp10_se...')
+#5 C:\xampp\htdocs\buzzne in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php on line 448
+

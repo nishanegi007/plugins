@@ -1,0 +1,219 @@
+2019-08-19T10:29:40+00:00 CRITICAL Uncaught Error: Undefined class constant 'BZNRD_LEAD' in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\controllers\admin\class-bznrd-lead-controller-admin-settings.php:64
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead_Controller_Admin_Settings->plugin_menu('')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\menu.php(154): do_action('admin_menu', '')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-admin\menu.php(309): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-admin\admin.php(152): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-admin\options-general.php(10): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\controllers\admin\class-bznrd-lead-controller-admin-settings.php on line 64
+
+2019-08-19T10:29:58+00:00 CRITICAL Uncaught Error: Undefined class constant 'BZNRD_LEAD' in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\controllers\admin\class-bznrd-lead-controller-admin-settings.php:64
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead_Controller_Admin_Settings->plugin_menu('')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\menu.php(154): do_action('admin_menu', '')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-admin\menu.php(309): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-admin\admin.php(152): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\controllers\admin\class-bznrd-lead-controller-admin-settings.php on line 64
+
+2019-08-19T12:18:02+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead/includes/class-bznrd-lead.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\bznrd-lead.php on line 67
+
+2019-08-19T12:18:14+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead/includes/class-bznrd-lead.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\bznrd-lead.php on line 67
+
+2019-08-19T12:18:17+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead/includes/class-bznrd-lead.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\bznrd-lead.php on line 67
+
+2019-08-19T12:29:26+00:00 CRITICAL Uncaught Error: Class 'Example_Me\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:30:25+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:30:25+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:31:27+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:32:24+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\routes.php on line 144
+
+2019-08-19T12:32:24+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\routes.php on line 144
+
+2019-08-19T12:33:23+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\routes.php on line 144
+
+2019-08-19T12:33:41+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:33:44+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:34:16+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:34:32+00:00 CRITICAL Uncaught Error: Call to a member function register_route_of_type() on null in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\routes.php:142
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\includes\class-bznrd-lead.php(150): include_once()
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead->{closure}('')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(394): do_action('plugins_loaded')
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\routes.php on line 142
+
+2019-08-19T12:35:05+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:35:53+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Frontend\Print_Posts_Shortcode' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php:328
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(278): Bznrd_Lead\Core\Router->dispatch(Array, 'admin')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php(89): Bznrd_Lead\Core\Router->register_routes()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\Core\Router->register_generic_routes('')
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-settings.php(525): do_action('init')
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-load.php(37): require_once('C:\\xampp in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\core\class-router.php on line 328
+
+2019-08-19T12:40:39+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:41:36+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:41:38+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:41:38+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:46:52+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:46:53+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:47:53+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:48:12+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:48:51+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:49:13+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:49:35+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:50:14+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:50:30+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:51:45+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:52:54+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:58:25+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:59:07+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T12:59:43+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T13:00:57+00:00 CRITICAL Class Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Bznrd_Lead\App\Controllers\Admin\Base_Controller::register_hook_callbacks) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 14
+
+2019-08-19T13:02:17+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Admin\Frontenduser_List' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php:53
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode->Bznrd_Lead\App\Controllers\Admin\{closure}('')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-admin\admin.php(231): do_action('load-toplevel_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 53
+
+2019-08-19T13:15:55+00:00 CRITICAL Cannot redeclare Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode::bznrd_lead_func() in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 52
+
+2019-08-19T13:15:57+00:00 CRITICAL Cannot redeclare Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode::bznrd_lead_func() in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 52
+
+2019-08-19T13:15:58+00:00 CRITICAL Cannot redeclare Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode::bznrd_lead_func() in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 52
+
+2019-08-19T13:15:58+00:00 CRITICAL Cannot redeclare Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode::bznrd_lead_func() in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 52
+
+2019-08-19T13:16:08+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 22
+
+2019-08-19T13:16:09+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 22
+
+2019-08-19T13:16:59+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 22
+
+2019-08-19T13:17:07+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 22
+
+2019-08-19T13:21:55+00:00 CRITICAL Uncaught Error: Class 'Bznrd_Lead\App\Controllers\Admin\Frontenduser_List' not found in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php:53
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Bznrd_Lead\App\Controllers\Admin\Print_Posts_Shortcode->Bznrd_Lead\App\Controllers\Admin\{closure}('')
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-admin\admin.php(231): do_action('load-toplevel_p...')
+#4 {main}
+  thrown in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-lead\app\controllers\admin\class-print-posts-shortcode.php on line 53
+

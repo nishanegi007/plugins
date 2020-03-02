@@ -1,0 +1,12 @@
+2019-08-02T05:41:33+00:00 CRITICAL Uncaught Error: Cannot use [] for reading in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php:202
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(286): Listing->listing_filters_for_admin_table_parse_query(Object(WP_Query))
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1067): do_action_ref_array('parse_query', Array)
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(1740): WP_Query->parse_query()
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp-query.php(3404): WP_Query->get_posts()
+#6 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp.php(622): WP_Query->query(Array)
+#7 C:\xampp\htdocs\buzznerdtrucks\wp-includes\class-wp.php(739): WP->query_posts()
+#8 C:\xampp\htdocs\buzznerdtrucks\wp-includes\functions.php(1 in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing.php on line 202
+

@@ -1,0 +1,12 @@
+2019-07-24T05:04:12+00:00 CRITICAL Cannot declare class Mobile_Detect, because the name is already in use in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\Mobile_Detect.php on line 23
+
+2019-07-24T06:36:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function bznrd\model\User::getUsersWithContactInfo(), 0 passed in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php on line 227 and exactly 1 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd\model\class-user.php:141
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\extensions\location\location\field_location.php(227): bznrd\model\User::getUsersWithContactInfo()
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\ReduxFramework\ReduxCore\framework.php(3471): ReduxFramework_location->render()
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1651): ReduxFramework->_field_input(Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-admin\includes\template.php(1609): do_settings_fields('listing_wp10_se...', 'listing_wp10_se...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\Redu in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd\model\class-user.php on line 141
+
+2019-07-24T11:44:58+00:00 CRITICAL Out of memory (allocated 121634816) (tried to allocate 77824 bytes) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\js_composer\include\params\google_fonts\google_fonts.php on line 33
+

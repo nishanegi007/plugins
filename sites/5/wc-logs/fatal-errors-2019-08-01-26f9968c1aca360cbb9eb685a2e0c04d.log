@@ -1,0 +1,88 @@
+2019-08-01T12:07:45+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2563
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2563
+
+2019-08-01T12:08:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2563
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2563
+
+2019-08-01T12:39:59+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2563
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2563
+
+2019-08-01T12:41:55+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2562
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2562
+
+2019-08-01T12:44:46+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2562
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2562
+
+2019-08-01T12:45:30+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2562
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2562
+
+2019-08-01T12:47:03+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2562
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2562
+
+2019-08-01T12:47:22+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2562
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-2.php(103): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\shortcodes.php(381): Listing_Template->locate_template('shortcodes/inve...', Array)
+#5 C:\xampp\htdocs\buzznerdtrucks\wp-includes\shortcodes.php(325) in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2562
+
+2019-08-01T13:04:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function inventory_listing_price_html(), 3 passed in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-3.php on line 56 and exactly 4 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2537
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-3.php(56): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtru in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2537
+
+2019-08-01T13:06:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function inventory_listing_price_html(), 3 passed in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-4.php on line 53 and exactly 4 expected in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php:2537
+Stack trace:
+#0 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\inventory_listing-theme-4.php(53): inventory_listing_price_html(Object(WP_Post), Array, true)
+#1 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\auto_templates\shortcodes\inventory.php(186): Listing_Template->locate_template('inventory_listi...', Array)
+#3 C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\classes\class.listing_template.php(23): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buzznerdtru in C:\xampp\htdocs\buzznerdtrucks\wp-content\plugins\bznrd-inventory\plugin_functions.php on line 2537
+
